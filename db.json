@@ -1,4 +1,10 @@
 {
+	"test": [
+		{
+			"response": true,
+			"test": "string",
+		}
+	],
 	"events": [
 		{
 			"id": 1,
