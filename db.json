@@ -1,12 +1,4 @@
 {
-"test": [
-{
-"response": true,
-"test": "string",
-}
-],
-"events": [
-{
 "id": 1,
 "title": "title",
 "description": "description",
@@ -166,5 +158,3 @@
 "color": "blue",
 "privacy": "false",											
 }																	
-]
-}
