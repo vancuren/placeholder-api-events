@@ -1,246 +1,4 @@
 {
-"contacts": [
-{
-"lead_id": 1,
-"first_name": "Floyd",
-"last_name": "Garibay",
-"street_one": "136 Argyle Ave",
-"street_two": "",
-"city": "Miami Beach",
-"state": "FL",
-"zip": 33139,
-"phone": "(856) 912-8045",
-"dob": "9/27/1941",
-"company": "Rainy Pen Builders",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Sent",
-"temp": "blazing",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "russell@vancuren.net"
-},
-{
-"lead_id": 2,
-"first_name": "Keiko",
-"last_name": "Valentin",
-"street_one": "170 Rockville Street",
-"street_two": "",
-"city": "Pickerington",
-"state": "OH",
-"zip": 43147,
-"phone": "(568) 313-0282",
-"dob": "5/8/1944",
-"company": "Acute Lamp Builders",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Sent",
-"temp": "blazing",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "keiko@email.net"
-},
-{
-"lead_id": 3,
-"first_name": "Ha",
-"last_name": "Silcox",
-"street_one": "179 Spring Drive",
-"street_two": "",
-"city": "Chesterton",
-"state": "IN",
-"zip": 46304,
-"phone": "(207) 451-2654",
-"dob": "9/19/1950",
-"company": "The Deep Chinchilla theatre Company",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Viewed",
-"temp": "hot",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "ha@email.net"
-},
-{
-"lead_id": 4,
-"first_name": "Etsuko",
-"last_name": "Garneau",
-"street_one": "201 Ketch Harbour Street",
-"street_two": "",
-"city": "Mocksville",
-"state": "NC",
-"zip": 27028,
-"phone": "(722) 879-3924",
-"dob": "5/3/1951",
-"company": "The Green Fish Marketing Company",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Viewed",
-"temp": "hot",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "etsuko@email.net"
-},
-{
-"lead_id": 5,
-"first_name": "Doria",
-"last_name": "Thomason",
-"street_one": "21 West Surrey Street",
-"street_two": "",
-"city": "Dublin",
-"state": "GA",
-"zip": 31021,
-"phone": "(199) 160-6167",
-"dob": "8/6/1953",
-"company": "Cloudy Lemon theatre",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": "admin",
-"status": "Client",
-"action": "Email Viewed",
-"temp": "warm",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "doria@email.net"
-},
-{
-"lead_id": 6,
-"first_name": "Lavette",
-"last_name": "Tatham",
-"street_one": "275 Westport St",
-"street_two": "",
-"city": "Milford",
-"state": "MA",
-"zip": 1757,
-"phone": "(559) 794-9325",
-"dob": "11/12/1953",
-"company": "The Big Turtle marketing Company",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Sent",
-"temp": "warm",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "lavette@email.net"
-},
-{
-"lead_id": 7,
-"first_name": "Nicolas",
-"last_name": "Conlin",
-"street_one": "277 W Theatre Ave",
-"street_two": "",
-"city": "Germantown",
-"state": "MD",
-"zip": 20874,
-"phone": "(989) 953-7295",
-"dob": "10/17/1954",
-"company": "Piping Strawberry Web Design",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Viewed",
-"temp": "cold",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "nicolas@email.net"
-},
-{
-"lead_id": 8,
-"first_name": "Leonel",
-"last_name": "Lombard",
-"street_one": "3 San Pablo Lane",
-"street_two": "",
-"city": "Lithonia",
-"state": "GA",
-"zip": 30038,
-"phone": "(784) 665-8018",
-"dob": "12/5/1955",
-"company": "The Black Pencil theatre Company",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Sent",
-"temp": "cold",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "test@test.net"
-},
-{
-"lead_id": 9,
-"first_name": "Dyan",
-"last_name": "Ashton",
-"street_one": "304 Young Dr",
-"street_two": "",
-"city": "Wilmington",
-"state": "MA",
-"zip": 1887,
-"phone": "(318) 301-0559",
-"dob": "5/22/1957",
-"company": "Cheeky Fox Films",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": null,
-"status": "Client",
-"action": "Email Sent",
-"temp": "freezing",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "dyan@email.net"
-},
-{
-"lead_id": 10,
-"first_name": "Sean",
-"last_name": "Raub",
-"street_one": "342 Arlington Circle",
-"street_two": "",
-"city": "Elizabeth City",
-"state": "NC",
-"zip": 27909,
-"phone": "(114) 656-4200",
-"dob": "7/18/1959",
-"company": "The Blue Moose Web Design Company",
-"owner": "margaretaudet",
-"source": "A lead",
-"owner_role": "Admin",
-"status": "Client",
-"action": "Email Sent",
-"temp": "freezing",
-"notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
-],
-"email": "sean@email.net"
-}
-],
 "events": [
 {
 "event_id": 1,
@@ -252,6 +10,11 @@
 "color": "red",
 "description": "Meeting with Sarah",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": "Floyd"
 },
 {
@@ -263,7 +26,12 @@
 "title": "Meeting with Sales",
 "color": "blue",
 "description": "Meeting with Sales",
-"visibility": "public",
+"allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": "Keiko"
 },
 {
@@ -276,6 +44,11 @@
 "color": "green",
 "description": "Monthly Review",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": "Ha"
 },
 {
@@ -288,6 +61,11 @@
 "color": "red",
 "description": "Lead Visit",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": "Etsuko"
 },
 {
@@ -300,6 +78,11 @@
 "color": "blue",
 "description": "Contact Call",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": "Doria"
 },
 {
@@ -312,6 +95,11 @@
 "color": "green",
 "description": "Dinner with Jason",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": null
 },
 {
@@ -324,6 +112,11 @@
 "color": "green",
 "description": "Remember Conf Call",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": null
 },
 {
@@ -336,6 +129,11 @@
 "color": "green",
 "description": "Review Notes",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": null
 },
 {
@@ -348,6 +146,11 @@
 "color": "blue",
 "description": "Meeting with Sarah",
 "allDay": false,
+"multiDay": false,
+"repeating": false,
+"shared": false,
+"tags": null,
+"privacy": "public",
 "contact": null
 }
 ]
